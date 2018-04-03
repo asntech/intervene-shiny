@@ -29,6 +29,8 @@ OR
 
 >https://intervene.shinyapps.io/intervene
 
+![](http://intervene.readthedocs.io/en/latest/_images/shinyapp_main.png)
+
 Support
 ========
 If you have questions, or found any bug in the program, please write to us at ``aziz.khan[at]ncmm.uio.no``
