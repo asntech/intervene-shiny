@@ -24,15 +24,17 @@ Online availability
 Intervene Shiny App is freely available at
 
 >https://asntech.shinyapps.io/intervene
+
 OR
+
 >https://intervene.shinyapps.io/intervene
 
 Support
 ========
 If you have questions, or found any bug in the program, please write to us at ``aziz.khan[at]ncmm.uio.no``
 
-Cite Us
-=========
+Cite
+====
 If you use Intervene please cite us:
 >Khan A, Mathelier A. Intervene: a tool for intersection and visualization of multiple gene or genomic region sets. BMC Bioinformatics. 2017;18:287. doi: [10.1186/s12859-017-1708-7](https://doi.org10.1186/s12859-017-1708-7)
 
